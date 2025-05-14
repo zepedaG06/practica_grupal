@@ -1,5 +1,5 @@
 # practica_grupal
 # Integrantes
 ## José Zepeda
-## Gunter 
+## Gunter Zamora
 ## Jorge Delgado
